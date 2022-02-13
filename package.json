@@ -1,0 +1,16 @@
+{
+  "name": "@conteman/eslint-config-monorepo",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "ConteMan <real.conteman@gmail.com> (https://github.com/conteman/)",
+  "private": true,
+  "scripts": {
+    "lint": "npx eslint --ext .js,.json,.vue --fix ."
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.16.1",
+    "eslint": "^8.9.0",
+    "lerna": "^4.0.0",
+    "typescript": "^4.5.5"
+  }
+}
