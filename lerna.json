@@ -5,7 +5,7 @@
   "npmClient": "pnpm",
   "command": {
     "publish": {
-      "registry": "https://registry.npmjs.org/"
+      "registry": "https://registry.npmjs.org"
     }
   },
   "version": "0.1.2"
