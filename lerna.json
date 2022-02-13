@@ -3,5 +3,10 @@
     "packages/*"
   ],
   "npmClient": "pnpm",
+  "command": {
+    "publish": {
+      "registry": "https://registry.npmjs.org/"
+    }
+  },
   "version": "0.1.1"
 }
